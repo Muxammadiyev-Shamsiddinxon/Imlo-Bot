@@ -1,6 +1,6 @@
 # Imlo-Bot
 
-@Imloxatolar_bot --> link 
+link -->  @Imloxatolar_bot  
 
 telegram imlo-bot  kodlari.
 
